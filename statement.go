@@ -38,7 +38,7 @@ func main() {
 
 func getMinNum(l []int) int {
 	var min int
-	for i, num := range l{
+	for i, num := range l {
 		if i == 0 {
 			min = num
 			continue

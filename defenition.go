@@ -14,9 +14,9 @@ func main() {
 
 	// Q3
 	m := map[string]int{
-		"Mike": 20,
+		"Mike":  20,
 		"Nancy": 24,
-		"Messi":30,
+		"Messi": 30,
 	}
 	fmt.Printf("%T %v", m, m)
 }
